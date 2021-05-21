@@ -7,6 +7,9 @@ UNO GUI w/ strategy AI. In this program I created a GUI where the user is able t
 - Low Amount of Cards
   - When the game is about to reach an end and a player has a low amount of cards than we want our priorities switched. Once we see that a player has reached 3 or less cards than we want to start getting rid of our high value cards so that we can score higher on the leaderboard. The first card that we want to look for are wilds cards since they are worth 50 points. If there are no wild cards than than we want to look for special cards becuase they are worth 20 points. If those cards are not present than we want to look for the highest valued numerical card.
 
+# Screenshots 
+
+
 # What I Learned 
 - Java Swing Framework
 - Utilizing OOP Design Patterns
