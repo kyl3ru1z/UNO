@@ -13,5 +13,5 @@ UNO GUI w/ strategy AI. In this program I created a GUI where the user is able t
 - Implementing Callbacks 
 
 # Screenshots 
-<img src="Screenshots/main_menu.PNG" height="200"> <img src="Screenshots/leaderboard_menu.PNG" height="200"> <img src="Screenshots/game_menu.PNG" height="300">
+<img src="Screenshots/main_menu.PNG" height="300"> <img src="Screenshots/leaderboard_menu.PNG" height="300"> <img src="Screenshots/game_menu.PNG" height="450">
 
